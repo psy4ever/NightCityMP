@@ -68,3 +68,5 @@ The client targets game patch 2.31a via a [ported RED4ext.SDK](https://github.co
 - **WopsS** — RED4ext and RED4ext.SDK · **psiberx** — Codeware, ArchiveXL, TweakXL · **jac3km4** — redscript · **jackhumbert** — Input Loader.
 
 Per the license, this software may only be distributed through GitHub or the project's own website — **not** through third-party modding platforms.
+
+<!-- Trigger Windows build -->
